@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=i_LwzRVP7bg
+
+Biblioteca:
+pytorch (https://pytorch.org/)
+tensorflow (https://www.tensorflow.org/)
+Scikit-Learn (https://scikit-learn.org/stable/)
+spacy (https://spacy.io/) 
